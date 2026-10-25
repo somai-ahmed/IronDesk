@@ -1,4 +1,4 @@
-# 🏋️ Gym Management Application
+# IronDesk — Desktop Gym Management Application (VB.NET)
 
 ---
 
